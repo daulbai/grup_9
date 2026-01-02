@@ -1,4 +1,4 @@
-
+# [VIDEO ANLATIM](https://drive.google.com/file/d/1z-8LtiMe5iu08AZHPeJtveR7bJSRMCxR/view?usp=sharing)
 
 # Proje Amacı
 Bu proje, Bu projenin temel amacı, 250 düğümlük karmaşık bir ağ topolojisi üzerinde gecikme, güvenilirlik ve bant genişliği metriklerini dikkate alarak bir kaynaktan (S) bir hedefe (D) giden "en iyi" yolu bulmaktır.
